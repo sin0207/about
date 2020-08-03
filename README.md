@@ -4,13 +4,13 @@ E-Mail : uxinjian@gmail.com
 
 Mobile : 0938-767-993
 
-技能
+## 技能
 
-**HTML/CSS**
+#### HTML/CSS
 
 能夠針對設計稿並使用css做出網頁排版及RWD畫面
 
-**Javascript**
+#### Javascript
 
 對原生 Javascript 有一定深度的了解，能針對專案需求修改套件。
 
@@ -18,22 +18,22 @@ Jquery - 常用來串接資料與修改套。
 
 擅長使用 Vue.js 開發畫面。
 
-**Python**
+#### Python
 
 能夠進行簡易爬蟲開發
 
-**PHP/Mysql**
+#### PHP/Mysql
 
 為主力程式項目，大多開發均使用php
 Laravel為主要使用框架
 
-**Git/GitHub/GitLab**
+#### Git/GitHub/GitLab
 
 能夠使用 GitHub Pages 建立一個靜態網頁。
 熟悉 sourcetree
 能夠針對系統做好版控
 
-**作品集**
+## 作品集
 
 曾參與的專案
 
